@@ -20,7 +20,16 @@ Key Findings: Identified key cost-driving segments and visualized claims frequen
 
 <img width="1077" height="575" alt="Screenshot 2026-08-23 232835" src="https://github.com/user-attachments/assets/3b0fc283-9ded-420f-94bc-57dc29ff7f27" />
 
-[📂 Download / View Excel Project File](./Excel_Car_Insurance_Project.xlsx)
+
+
+
+<img width="482" height="323" alt="Screenshot 2026-08-21 205453" src="https://github.com/user-attachments/assets/525e3de0-cf60-46bd-a528-6bf675cdac99" />
+
+<img width="963" height="405" alt="Screenshot 2026-08-21 204054" src="https://github.com/user-attachments/assets/f318ef44-4416-4c6d-be06-4f17b8b49547" />
+
+<img width="564" height="290" alt="Screenshot 2026-08-21 205159" src="https://github.com/user-attachments/assets/4db75d34-27ab-4a78-9d9c-465e38afc53e" />
+
+<img width="844" height="431" alt="Screenshot 2026-08-21 204511" src="https://github.com/user-attachments/assets/4cebf3f1-65c6-4edb-b8b1-0cab43210f0b" />
 
 
 2.Brazilian E-Commerce Analysis
