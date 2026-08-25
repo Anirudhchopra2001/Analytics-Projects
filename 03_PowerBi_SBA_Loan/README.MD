@@ -10,7 +10,9 @@ Th‌e dash⁠board is built for two‌ a‌udie‌n⁠ces at once. For an‌ un
 
 Dataset Name:Should This Loan be Approved or Denied? 
 
-(U.S. Small Business Administration)Platform:Kaggle
+(U.S. Small Business Administration)
+
+Platform:Kaggle
 
 https://www.kaggle.com/datasets/mirbektoktogaraev/should-this-loan-be-approved-or-denied
 
