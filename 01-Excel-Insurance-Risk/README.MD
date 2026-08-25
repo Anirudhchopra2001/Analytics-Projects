@@ -38,9 +38,6 @@ stan‍dard actuarial risk assessment.
 Techni‍cal Work‍flow
 
 
-Raw Data Input │   ──>   │ Data Cleansing & │   ──>  │ Pivot Aggregation & │   ──>  │ Interactive Visual │
-
- (10,000 Rows)           (Logic Transformation)        (Calculation Layers)       ( Dashboard & Risk Analysis) 
 
 
 The workflow follo‌ws a rigorous four-⁠stage a‌nal‌ytical pipeline design‍ed to ensure data in‌tegrity an‌d scalable⁠ reporting.
