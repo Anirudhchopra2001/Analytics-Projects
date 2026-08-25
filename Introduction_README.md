@@ -20,8 +20,7 @@ Key Steps & Methods: Data cleaning, conditional formatting, pivot tables, and dy
 Key Findings: Identified key cost-driving segments and visualized claims frequency patterns.
 
 
-<img width="1077" height="575" alt="Screenshot 2026-08-23 232835" src="https://github.com/user-attachments/assets/3b0fc283-
-  9ded-420f-94bc-57dc29ff7f27" />
+<img width="963" height="405" alt="Image" src="https://github.com/user-attachments/assets/a4ceb4a6-a270-4794-b016-4cd7bfa14bba" />
 
 
 2.Brazilian E-Commerce Analysis
