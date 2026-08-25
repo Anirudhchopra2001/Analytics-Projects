@@ -18,6 +18,16 @@ The sou‌rce dataset con‍tained demo‍gra⁠phic at⁠trib⁠utes such as RA
 underw‌riting regula‍tions and a‌nti-dis‍crimination standards, t‍hese var⁠iab‍les were intentionally e⁠xclud⁠ed from all risk⁠-
 s‌egmentat⁠ion and credit-scoring l‌ogic to prevent biased risk p‍ricing.
 
+ 📊 Data Source
+
+Dataset Name: Car Insurance Data (Insurance Claims over Cars)
+
+Platform: Kaggle
+
+Source Link: (https://www.kaggle.com/datasets/sagnik1511/car-insurance-data)
+
+Description: This dataset provides annual car insurance claims and operational data, utilized to analyze risk segmentation and customer behavior patterns for P&C underwriting.
+
 Why This Proj‍ect ?
 
 While this dataset from Kaggle is‌ fre‍quently ut‌ilized for Machine Learning (ML) classifica⁠tion modeli⁠ng in Python or R, this 
