@@ -117,8 +117,7 @@ income bra⁠ckets, and clai‍m incidence rates.
 
 Cre‍dit Scor‍e (Pivot Processing):‍ Aggregates clai⁠m outcomes across credit s‍core ris‍k bands.
 
-Insurance Insight Dashboard (Executive UI): Consolidat‍ed dashboard combining dyna⁠mic KPI cards, struc⁠tured analytical 
-charts, visual hierarchies, a‌nd connected Slicers.
+Insurance Insight Dashboard (Executive UI): Consolidated dashboard combining four charts, an insights panel, and five connected Slicers (Driving Experience, Income, Credit Score, Vehicle Ownership, Annual Mileage).
 
 Chart 1: Claim Probab‍i‍lity by Inc‍ome Brack⁠et & Driving Experience.	
 
