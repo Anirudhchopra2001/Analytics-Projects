@@ -88,7 +88,7 @@ Risk Exposure % expresses the relationship between defaulted loans and total loa
 The Risk Tolerance what-if parameter is the most technically involved piece of the model. Rather than being a static slicer, it is backed by a disconnected What-If parameter table and a supporting measure that reads the parameter's currently selected value:
 ​
 
-Selected Risk Tolerance = SELECTEDVALUE('Risk Tolerance'[Risk Tolerance], 100)
+Selected Risk Tolerance = SELECTEDVALUE('Risk Tolerance'[Risk Tolerance], 100)/100
 ​
 
 This selected value then feeds into the core exposure measures through a filter pattern that evaluates each industry sector's own default rate independently, and only includes sectors whose risk falls within the currently selected tolerance:
