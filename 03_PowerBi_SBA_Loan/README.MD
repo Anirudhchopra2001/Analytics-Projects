@@ -116,6 +116,7 @@ CALCULATE([Risk Exposure %], ALL(SBAnational[SBAnational[NAICS_Sector_Code]])) <
 )
 
 
+
 The practical effect: dragging the Risk Tolerance slider dynamically recalculates portfolio-level KPIs to reflect only the sectors that would fall within that chosen risk appetite, rather than simply filtering rows on a single column.
 ​
 
